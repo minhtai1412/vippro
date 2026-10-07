@@ -1,5 +1,9 @@
 hello world
+<<<<<<< HEAD
 
 xin chao le minh tai 
 
 xin chao nguyen hoang long
+=======
+xin chao le ly thai kiet
+>>>>>>> 0306241122-lelythaikiet
